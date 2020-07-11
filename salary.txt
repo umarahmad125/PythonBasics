@@ -1,0 +1,3 @@
+HBilal,150000
+Khan,50000
+Danyal,100000
